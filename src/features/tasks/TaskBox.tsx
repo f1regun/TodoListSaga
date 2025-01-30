@@ -1,6 +1,6 @@
 import TaskComponent from './Task.js';
 import AddTask from './AddTaskForm.js';
-import { useAppSelector } from 'C:/Users/Ivan/Desktop/Code/frontend/TodoListReduxDemo-main/src/app/store.ts';
+import { useAppSelector } from '../../app/store.ts';
 
 
 const TaskBox: React.FC = () => {
